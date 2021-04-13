@@ -1,6 +1,6 @@
 ## About The Codebase
 
-This codebase is the **REST API** for a nodejs test
+This codebase is the **MVC API** for a nodejs test
 
 ## Technology Used
 
